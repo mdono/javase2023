@@ -17,7 +17,7 @@ public class Manuel {
             BufferedReader entrada = 
                     new BufferedReader(conversor);
             texto = entrada.readLine();
-            i = Integer.parseInt(texto); // parse 
+            i = Integer.parseInt(texto); // parser "123"
         } catch(IOException ex) {
             System.err.println("Error: " + ex.getMessage());
         }

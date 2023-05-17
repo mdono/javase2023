@@ -14,10 +14,13 @@ public class Guatemala {
         System.out.println("Ingrese un segundo valor entero");
         b = x.nextInt();
         
-        c = a + b;
+        c = (a + b);
         //int c = x.nextInt() + x.nextInt();
+        //String + in = String
+        //int + int = int
         
         //System.out.println("Resultado1: " + x.nextInt() + x.nextInt());
-        System.out.println("Resultado2: " + c);
+        System.out.println("Resultado2: " + (a + b));
+        System.out.println("Resultado3: " + c);
     }
 }

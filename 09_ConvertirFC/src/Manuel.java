@@ -6,6 +6,7 @@ public class Manuel {
     public double fahrenheitCelsius(double grado) {
         double gCelsius = (grado - 32) / 1.8;
         return gCelsius;
+        //return (grado - 32) / 1.8;
     }
     
     public double celsiusFahrenheit(double grado) {

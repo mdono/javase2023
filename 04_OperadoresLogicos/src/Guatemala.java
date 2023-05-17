@@ -49,7 +49,6 @@ public class Guatemala {
         compara = (x<=y && x >= y || x>y);
         System.out.println("(x<=y && x >= y || x>y) es: " + compara);
         
-        
         // 1. exponenciales, 
         // 2. logaritmicos, 
         // 3. division, multi, 

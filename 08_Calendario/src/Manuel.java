@@ -61,6 +61,7 @@ public class Manuel {
         Date fechaFin = new Date();
         
         long diferencia = fechaFin.getTime() - fechaInicio.getTime();
+        //System.out.println("diferencia: " + diferencia);
         
         System.out.println("\tDiferencia entre " + fechaFin + " y " 
                 + fechaInicio + " ");

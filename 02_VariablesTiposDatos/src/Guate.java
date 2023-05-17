@@ -37,7 +37,7 @@ public class Guate {
         String cadenaTexto = "Hola Mundo";
         System.out.println(cadenaTexto);
         double decimal = 16.20;
-        System.out.println(decimal);
+        System.out.println(decimal);        
         boolean verdad = true;//JIT Just In Time
         //boolean verdad1 = false;
         System.out.println(verdad);
